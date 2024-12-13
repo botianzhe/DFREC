@@ -1,4 +1,4 @@
-# DFREC &mdash; official PyTorch Implementation
+# DFREC &mdash; Official PyTorch Implementation
 
 ![](./assets/teaser.png)
 ![](./assets/framework.png)
