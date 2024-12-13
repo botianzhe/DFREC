@@ -19,6 +19,8 @@ python -m pip install -r requirements.txt
 #and then you can run the inference code
 python DFREC_eval.py
 ```
+## Training
+The training code will be released after the paper is accepted.
 
 ## Implementation Author
 
