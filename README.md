@@ -1,4 +1,4 @@
-# DFREC
+# DFREC &mdash; official PyTorch Implementation
 unzip segmentation_models.zip
 
 python -m pip install -r requirements.txt
