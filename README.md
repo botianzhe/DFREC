@@ -29,6 +29,11 @@ Peipeng Yu @ Jinan University, Guangzhou, China. (ypp865@163.com)
 ## Paper Information
 
 ```bibtex
-@inproceedings{Yu2024DFRECDI, title={DFREC: DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder}, author={Peipeng Yu and Hui Gao and Zhitao Huang and Zhihua Xia and Chip-Hong Chang}, year={2024}, url={https://api.semanticscholar.org/CorpusID:274610259} }
+@inproceedings{Yu2024DFRECDI,
+title={DFREC: DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder},
+author={Peipeng Yu and Hui Gao and Zhitao Huang and Zhihua Xia and Chip-Hong Chang},
+year={2024},
+url={https://api.semanticscholar.org/CorpusID:274610259}
+}
 ```
 
