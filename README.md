@@ -24,10 +24,6 @@ python DFREC_eval.py
 ## Training
 The training code will be released after the paper is accepted.
 
-## Implementation Author
-
-Peipeng Yu @ Jinan University, Guangzhou, China. (ypp865@163.com)
-
 ## Paper Information
 
 ```bibtex
