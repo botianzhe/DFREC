@@ -1,6 +1,5 @@
 # DFREC &mdash; official PyTorch Implementation
 
-# FaceShifter &mdash; Unofficial PyTorch Implementation
 ![](./assets/teaser.png)
 ![](./assets/framework.png)
 ![issueBadge](https://img.shields.io/github/issues/botianzhe/DFREC)   ![starBadge](https://img.shields.io/github/stars/botianzhe/DFREC)   ![repoSize](https://img.shields.io/github/repo-size/botianzhe/DFREC)  ![lastCommit](https://img.shields.io/github/last-commit/botianzhe/DFREC) 
