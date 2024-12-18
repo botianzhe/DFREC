@@ -4,7 +4,7 @@
 ![](./assets/framework.png)
 ![issueBadge](https://img.shields.io/github/issues/botianzhe/DFREC)   ![starBadge](https://img.shields.io/github/stars/botianzhe/DFREC)   ![repoSize](https://img.shields.io/github/repo-size/botianzhe/DFREC)  ![lastCommit](https://img.shields.io/github/last-commit/botianzhe/DFREC) 
 
-Official Implementation of [DFREC:DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder][(https://arxiv.org/abs/2412.07260)]
+Official Implementation of [DFREC:DeepFake Identity Recovery Based on Identity-aware Masked Autoencoder](https://arxiv.org/abs/2412.07260)
 
 Recent advances in deepfake forensics have primarily focused on improving the classification accuracy and generalization performance. Despite enormous progress in detection accuracy across a wide variety of forgery algorithms, existing algorithms  lack intuitive interpretability and identity traceability to help with forensic investigation. In this work, we introduce a novel DeepFake Identity Recovery scheme (DFREC) to fill this gap. DFREC aims to recover the pair of source and target faces from a deepfake image to facilitate deepfake identity tracing and reduce the risk of deepfake attack. We evaluate DFREC on six different high-fidelity face-swapping attacks on FaceForensics++, CelebaMegaFS and FFHQ-E4S datasets, which demonstrate its superior recovery performance over state-of-the-art deepfake recovery algorithms.
 
